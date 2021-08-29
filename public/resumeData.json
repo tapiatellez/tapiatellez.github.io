@@ -1,128 +1,191 @@
 {
     "main": {
         "name": "Tapia-Téllez José Medardo",
-        "description": "I'm a web development engineer and I use react and python to develop pages...",
+        "description": "I'm a Computer Scientist with a keen interest in Data Science and Machine Learning",
         "image": "profilepic.jpg",
-        "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+        "bio": "I have a bachelors degree in Physics from Universidad Autonoma del Estado de Morelos and a masters in Computer Science from Instituto Nacional de Astrofísica Óptica y Electrónica. I have four years of experience in research labs where the last two were focused on data analysis and machine learning tasks. Among my great stregnths are solid mathematical foundations, experience with machine learning models, applied data science and extensive programming knowledge.",
         "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
         "email": "tapiatellez@gmail.com",
-        "phone": "(+52)7771899877",
+        "phone": "(+52) 7771899877",
         "github": "https://github.com/tapiatellez",
-        "project": "https://github.com/",
+        "project": "https://drive.google.com/file/d/1O0f88wqHInMFWGOIy05etdy-Di8k1Utx/view?usp=sharing",
         "address": {
             "street": "3 oriente 204, Colonia Centro,",
             "city": "San Pedro Cholula,",
             "state": "Puebla, México"
         },
-        "website": "https://github.com/",
-        "resumedownload": "https://github.com/",
+        "website": "https://drive.google.com/file/d/1O0f88wqHInMFWGOIy05etdy-Di8k1Utx/view?usp=sharing",
+        "resumedownload": "https://drive.google.com/file/d/1O0f88wqHInMFWGOIy05etdy-Di8k1Utx/view?usp=sharing",
         "social": [
             {
                 "name": "facebook",
-                "url": "https://github.com/",
+                "url": "https://facebook.com/tapiatellez",
                 "className": "fa fa-facebook"
             },
             {
                 "name": "twitter",
-                "url": "http://twitter.com",
+                "url": "http://twitter.com/tapiatellez",
                 "className": "fa fa-twitter"
             },
             {
                 "name": "linkedin",
-                "url": "https://www.linkedin.com/",
+                "url": "http://linkedin.com/in/tapiatellez",
                 "className": "fa fa-linkedin"
             },
             {
                 "name": "instagram",
-                "url": "http://instagram.com/",
+                "url": "http://instagram.com/tapiatellez",
                 "className": "fa fa-instagram"
             },
             {
                 "name": "github",
-                "url": "https://github.com/",
+                "url": "https://github.com/tapiatellez",
                 "className": "fa fa-github"
             }
         ]
     },
     "resume": {
-        "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+        "skillmessage": "",
         "education": [
             {
-                "school": "University?",
-                "degree": "Masters in Beer tasting",
-                "graduated": "April 2007",
-                "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+                "school": "Instituto Nacional de Astrofísica Óptica y Electrónica",
+                "degree": "M.Sc. in Computer Science",
+                "graduated": "August 2021",
+                "description": "Theoretical and practical preparation in relevant areas of Computer Science for scientific and technological development of the area. Special emphasis on Design and Analysis of Algorithms for Data Structures, Machine Learning and Applied Data Science for NLP"
             },
             {
-                "school": "Hogwarts School of Witchcraft and Wizardry",
-                "degree": "Gryffindor House",
-                "graduated": "March 2003",
-                "description": "Received 10 Outstandings in Care of Magical Creatures, Transfiguration, Potions, Charms, Herbology, Astronomy, History of Magic, Arithmancy, Ancient Runes, and Wandmaking."
+                "school": "Universidad Autónoma del Estado de Morelos",
+                "degree": "B.Sc. in Physics",
+                "graduated": "December 2017",
+                "description": "Theoretical and practical preparation in relevant areas of Physics and Mathematics for scientific and technological development of the area. Special emphasis in Computational Numerical Methods and Cosmology."
             }
         ],
         "work": [
             {
-                "company": "Department of Magical Law Enforcement",
-                "title": "Ministry of Magic",
-                "years": "December 2010 - Present",
-                "description": "Work to put an end to pro-pureblood laws through negotiation, petitions, and enforcing and creating fair laws for the wizarding community.s"
+                "company": "NLP Laboratory at INAOE",
+                "title": "Research Assistant",
+                "years": "January 2020 - August 2021",
+                "description": "Data mining on text documents for quantitative evaluation and classification through Machine Learning models on the state-of-the-art."
             },
             {
-                "company": "Department for the Regulation and Control of Magical Creatures",
-                "title": "Ministry of Magic",
-                "years": "March 2007 - December 2010",
-                "description": "Worked to improve the quality of life for house-elves and other disenfranchised creatures."
+                "company": "High Energy Physics and Gravitation Laboratory at UNAM",
+                "title": "Research Assistant",
+                "years": "June 2016 - june 2018",
+                "description": "Analysis of inflationary and cosmological models through Mathematica."
+            },
+            {
+                "company": "Corrosión y Protección S.A. de C.V.",
+                "title": "Stress Analyst",
+                "years": "August 2011 - june 2012",
+                "description": "Analysis of stress generated by fluids on ducts of different shapes and materials. Recolection of duct-related soil samples for decision making on anti-corrosion and protective treatment."
             }
+        ],
+        "publications": [
+          {
+            "title" : "Comprehensibilityh Analysis and Assesment of Academic Texts",
+            "magazine" : "International Conference on Artificial Intelligence",
+            "year" : "2021",
+            "description" : "This paper presents a computational-linguistic analysis, evaluation and feedback for academic documents based on three comprehensibility measures: Connectivity, Dispersion and Comprehensibility Burden.",
+            "url" : "https://drive.google.com/file/d/1D3QTRx7ypBZM9FAnScKQ3r1Lv_kGVer2/view?usp=sharing"
+          },
+          {
+            "title" : "Data Augmentation with Transformers for Text Classification",
+            "magazine" : "Mexican International Conference on Artificial Intelligence",
+            "year"  : "2020",
+            "description" : "This paper explores the suitability of transformer models as a data augmentation mechanism for text classification. Four strategies are proposed and evaluated in benchmark data using CNN and LSTM based classifiers.",
+            "url" : "https://link.springer.com/chapter/10.1007/978-3-030-60887-3_22"
+          },
+          {
+                "title" : "General Bounds in Hybrid Natural Inflation",
+                "magazine" : "Journal of Cosmology and Astroparticle Physics",
+                "year" : "2018",
+                "description" : "Great detail study of Hybrid Natural Inflation Model by constructing two simple effective field theories. The origin of the HNI potential can be traced to a symmetry breaking phenomenon occurring at some energy scale which gives rise to a massless Goldstone boson.",
+                "url" : "https://arxiv.org/abs/1707.00957"
+          }
         ],
         "skills": [
             {
                 "name": "Python",
-                "level": "60%"
-            },
-            {
-                "name": "VueJs",
-                "level": "55%"
-            },
-            {
-                "name": "ReactJs",
-                "level": "50%"
-            },
-            {
-                "name": "CSS",
                 "level": "90%"
             },
             {
-                "name": "JAVA",
+                "name": "C++",
+                "level": "70%"
+            },
+            {
+                "name": "Java",
+                "level": "60%"
+            },
+            {
+              "name" : "SQL",
+              "level": "50%"
+            },
+            {
+                "name": "NLTK and spaCy",
+                "level": "70%"
+            },
+            {
+                "name": "Numpy, Pandas, Matplotlib and Seaborn",
                 "level": "80%"
+            },
+            {
+                "name" : "Scikit-Learn and Tensorflow",
+                "level": "70%"
             }
         ]
     },
     "portfolio": {
         "projects": [
             {
-                "title": "Gryffindor Project",
-                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "title": "Image Classification for SVHN Dataset",
+                "category": "Tensorflow construction of MLP and CNN networks to classify images for the SVHN dataset",
                 "image": "project1.jpg",
-                "url": "https://www.google.com"
+                "url": "https://github.com/tapiatellez/SVHN"
             },
             {
-                "title": "Gryffindor Project",
-                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "title": "KdTree Analysis",
+                "category": "Object-Oriented KdTree implementation for analysis of running time and memory usage with Java.",
                 "image": "project2.jpg",
-                "url": "https://www.google.com"
+                "url": "https://github.com/tapiatellez/KdTree"
             },
             {
-                "title": "Gryffindor Project",
-                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
+                "title": "Data Cleansing and Analysis of Sports Data with Python",
+                "category": "The project reads and answer statistical questions about a file of metropolitan regions and associated sports team.",
                 "image": "project3.jpg",
-                "url": "https://www.google.com"
+                "url": "https://github.com/tapiatellez/SportsDataCleansing"
             },
             {
-                "title": "Gryffindor Project",
-                "category": "Magic Nagini bezoar, Hippogriffs Headless Hunt giant squid petrified.",
-                "image": "project4.jpg",
-                "url": "https://www.google.com"
+                "title": "Data Augmentation with Transformers",
+                "category": "A look into augmentating textual datsets based on attention mechanisms.",
+                "image": "attention.jpg",
+                "url": "https://github.com/tapiatellez/DataAugmentationTransformers"
+            },
+            {
+              "title" : "Airport BigData Retrieval",
+              "category" : "Retrieval from a BigData airports dataset with Impala (SQL) for recommendations.",
+              "image" : "BigData.jpg",
+              "url" : "https://github.com/tapiatellez/AirportsDataRetrieval"
+            },
+            {
+              "title" : "Hospitalizations due to SARS-COV2 Analysis",
+              "category" : "Independent data visualization analysis of hospitalizations vs positive cases of SARS-COV2 in Mexico City. ",
+              "image" : "SarsCov2.jpg",
+              "url" : "https://github.com/tapiatellez/SARS_COV2"
+
+            },
+            {
+              "title" : "Legibility Rankers",
+              "category" : "NLP and ML built rankers for identifying between two texts, which one of them is more legible.",
+              "image" : "nlpImage.jpg",
+              "url" : "https://github.com/tapiatellez/LegibilityRankers"
+            },
+            {
+              "title" : "8Puzzle",
+              "category" : "8puzzle object-oriented implementation with A* search algorithm for optimization.",
+              "image": "8logo.jpg",
+              "url" : "https://github.com/tapiatellez/8PuzzleAndA-Search"
             }
+
         ]
     }
 }

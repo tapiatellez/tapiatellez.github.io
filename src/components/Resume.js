@@ -15,7 +15,13 @@ export default function Resume(props) {
                 <p>{work.description}</p>
             </div>
         })
-
+        var publications = props.data.publications.map(function (publications) {
+            return <div key={publications.title}><h3>{publications.title}</h3>
+                <p className="info">{publications.magazine}<span>&bull;</span> <em className="date">{publications.year}</em></p>
+                <p>{publications.description}</p>
+                <a href = {publications.url} > {publications.url}</a>
+            </div>
+        })
         var skills = props.data.skills.map((skills) => {
             var className = 'bar-expand ' + skills.name.toLowerCase();
             return (
@@ -52,7 +58,14 @@ export default function Resume(props) {
                 </div>
             </div>
 
-
+            <div className="row publications">
+                <div className="three columns header-col">
+                    <h1><span>Publications</span></h1>
+                </div>
+                <div className="nine columns main-col">
+                    {publications}
+                </div>
+            </div>
 
             <div className="row skill">
                 <div className="three columns header-col">
