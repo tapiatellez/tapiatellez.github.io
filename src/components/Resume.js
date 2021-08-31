@@ -30,6 +30,12 @@ export default function Resume(props) {
                 </li>
             )
         })
+        var complementary = props.data.complementary.map(function (complementary) {
+            return <div key={complementary.title}><h3>{complementary.title}</h3>
+                <p className="info">{complementary.school}<span>&bull;</span> <em className="date">{complementary.year}</em></p>
+                <p>{complementary.description}</p>
+            </div>
+        })
     }
 
     return (
@@ -80,6 +86,14 @@ export default function Resume(props) {
                             {skills}
                         </ul>
                     </div>
+                </div>
+            </div>
+            <div className="row complementary">
+                <div className="three columns header-col">
+                    <h1><span>Specializations</span></h1>
+                </div>
+                <div className="nine columns main-col">
+                    {complementary}
                 </div>
             </div>
         </section>

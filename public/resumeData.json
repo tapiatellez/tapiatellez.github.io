@@ -103,6 +103,63 @@
                 "url" : "https://arxiv.org/abs/1707.00957"
           }
         ],
+        "complementary" : [
+          {
+            "title" : "Applied Data Science with Python",
+            "year" : "2020",
+            "school" : "University of Michigan",
+            "description" : "Five course specialization that applies machine learning, information visualization, text analysis, and social network analysis techniques through python toolkits such as pandas, matplotlib, scikit-learn, nltk, and networkx to gain insight into data."
+          },
+          {
+            "title" : "TensorFlow for Deep Learning",
+            "year" : "2021",
+            "school": "Imperial College London",
+            "description" : "Three course specialization for machine learning researchers and practicioners to develop practical skills in deep learning framework: TensorFlow. "
+          },
+          {
+            "title" : "Modern Big Data Analysis with SQL",
+            "year" : "2021",
+            "school": "CLOUDERA",
+            "description" : "Specialization that focuses on providing necessary skills to query big data with modern distributed SQL engines like Hive and Impala. The specialization is designed to provide preparation for the Cloudera Certified Associate (CCA) Data Analyst certification examn."
+          },
+          {
+            "title" : "Computer Science Fundamentals",
+            "year" : "2021",
+            "school": "University of Illinois",
+            "description" : "The specialization covers object-oriented programming, analysis of asymptotic algorithms run times, and the implementation of basic data structures including arrays, hash tables, linked lists, trees, heaps and graphs, as well as algorithms for traversals rebalancing and shortest path through C++ programming language."
+          },
+          {
+            "title" : "The Unix Workbench",
+            "year" : "2020",
+            "school": "Johns Hopkins University",
+            "description" : "Single course specialization that provides skills for different interconnecting Unix tools: Shell Script, Github, Bash (Unix Shell) and Cloud Computing. "
+          },
+          {
+            "title" : "Machine Learning",
+            "year" : "2019",
+            "school": "Stanford University",
+            "description" : "Broad introduction to machine learning, data mining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI)"
+          },
+          {
+            "title" : "Algorithms",
+            "year" : "2020",
+            "school": "Princeton University",
+            "description" : "Elementary data structures, sorting, and searching algorithms with emphasis on applications and scientific performance analysis on Java object-oriented implementations. "
+          },
+          {
+            "title" : "Mathematics for Machine Learning",
+            "year" : "2018",
+            "school": "Imperial College London",
+            "description" : "Three course specialization that builds an intuitive understanding of the underlying mathematics that relate to Machine Learning and Data Science. The first couse covers Linear Algebra, the second Multivariate Calculus and the third Dimensionality Reduction with Principal Component Analysis."
+          },
+          {
+            "title" : "Python for Everybody",
+            "year" : "2017",
+            "school": "University of Michigan",
+            "description" : "The specialization introduces fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language."
+          }
+
+        ],
         "skills": [
             {
                 "name": "Python",
